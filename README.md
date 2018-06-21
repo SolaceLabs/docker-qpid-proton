@@ -34,7 +34,7 @@ For detailed docker build commands look at the [`build.sh`](scripts/build.sh) sc
 
 ### Publishing Docker Images
 
-To publish local docker docker-qpid-proton images to Docker hub use the `docker_image/sh publish` command.
+To publish local docker docker-qpid-proton images to Docker hub use the `docker_image.sh publish` command.
 
 Publish Steps:
 1. clone this repository
